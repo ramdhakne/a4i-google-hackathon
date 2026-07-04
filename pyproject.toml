@@ -12,6 +12,7 @@ dependencies = [
     "fastapi>=0.104.0",
     "uvicorn>=0.24.0",
     "googlemaps>=4.10.0",
+    "pyyaml==5.3.1",
 ]
 
 [build-system]
